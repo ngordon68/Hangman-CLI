@@ -94,14 +94,7 @@ The app uses the Messages framework which is naturally in UIkit and Storyboard. 
     
 # 06 Demo
 
-Below is a video walkthrough Hangman
-
-
-
-https://github.com/ngordon68/FireChats-ReadMe/assets/102773701/3144197e-e07b-4de4-a949-c368dbf8a71b
-
-
-
+Below is a video walkthrough Hangman in the command line interface
 
 https://github.com/user-attachments/assets/1d0c2443-b01b-41f7-ae56-d5ad53ccb0f4
 
