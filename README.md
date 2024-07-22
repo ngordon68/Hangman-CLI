@@ -94,7 +94,7 @@ The app uses the Messages framework which is naturally in UIkit and Storyboard. 
     
 # 06 Demo
 
-Below is a video walkthrough of a FireChats 1.0
+Below is a video walkthrough Hangman
 
 
 
