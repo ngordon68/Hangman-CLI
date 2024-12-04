@@ -5,7 +5,7 @@ An CLI application of the classic game Hangman. Hangman is a game where the play
 
 
 # 02 Objectives 
-- Review the swift fundamentals to create Hangman in the command line interface
+- Dive into the essentials of Swift programming by creating a classic Hangman game that runs directly in the command line. This project is a hands-on way to solidify my understanding of Swift's core concepts while having fun with an interactive coding challenge
 
 # 03 Skills
 Swift
