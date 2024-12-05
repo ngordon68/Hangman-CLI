@@ -9,7 +9,7 @@ An CLI application of the classic game Hangman. Hangman is a game where the play
 # 03 Skills
 Loops, Arrays, Functions, Optionals, Structs, Enums, User Experience, User testing
 
-# 04 UML Diagram
+# 04 User Flow Diagram
 
 ![Group](https://github.com/user-attachments/assets/c259659c-5505-42d1-b930-08e84665dace)
 
