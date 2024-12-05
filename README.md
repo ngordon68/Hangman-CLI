@@ -1,6 +1,6 @@
 # Hangman CLI
 
-# 01 OverView
+# 01 Overview
 An CLI application of the classic game Hangman. Hangman is a game where the player is given a random word and the player has to guess the word within a limited number of attempts. 
 
 # 02 Objectives 
