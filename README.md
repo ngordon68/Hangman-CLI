@@ -16,6 +16,20 @@ Loops, Arrays, Functions, Optionals, Structs, Enums, User Experience, User testi
    
 # 05 Technical Walkthrough   
 The Hangman CLI was a great refresher to practiced my Swift fundamentals. I loved the game as a child and it was a perfect opportunity to recreate the game in the command line interface. One of my obstacles was that I was running to an issue with the user guessing correctly with a letter and having that letter geenerate in the correct space for the word. I intially tried to loop through the characters within the string but I was having issues with this approach. My solution was to take the user input and convert that into an array where each letter has it own index. If the user guessed a letter correctly, there will be a loop to check where the word has the guessed input and take the index to placed correctly. 
+
+Here below is the code used to help placed the letter by the index position
+```
+fileprivate func placeLetter(_ userInput: String) {
+    print("You have guessed \(userInput) which is correct!")
+    for index in currentWordInArray.indices {
+        if currentWordInArray[index] == userInput {
+            guessedWordArray[index] = userInput
+            guessedWord = guessedWordArray.joined()
+            
+        }
+    }
+}
+```
     
     
 # 06 Video Demo
